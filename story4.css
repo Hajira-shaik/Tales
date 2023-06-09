@@ -1,0 +1,22 @@
+body{
+    background-image:url(bbb.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding:50px;
+    
+}
+.a{
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size:20px;
+    color:darkblue;
+   
+}
+.b
+{ 
+   margin-left:16%;
+}
+h1{
+    color:darkblue;
+}

@@ -1,0 +1,105 @@
+.sty{
+    border 10px solid black;
+    padding:50px;
+    margin:auto;
+    display:flex;
+    font-family: georgia;
+}
+h1{
+    font-family:pyparus;
+    color:white;
+    text-align:center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    
+}
+body{
+    background-image:url(cinbgg.jpeg);
+    background-attachment: fixed;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
+    border-radius:20px;;
+    padding:20px;
+    
+}
+.a{
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size:large;
+    color:black;
+    padding-left: 50px;
+}
+.b{
+    display:flex;
+    font-family:'Times New Roman', Times, serif;
+    font-style:oblique;
+    font-size:large;
+   
+}
+h2{
+   
+        font-size: 24px;
+        font-family: pyparus
+        font-style:italic;
+        color: white;
+        text-align: left;
+        line-height: 1.5;
+        margin: 10px 0;
+        padding: 0 20px;
+      }
+      .images{
+        
+        border-radius:50%;
+      }
+     
+      .image-style {
+        width: 200px;
+        height: 200px;
+        border: 2px solid blue;
+        border-radius: 10%;
+        box-shadow: 3px 3px 5px yellow;
+        margin: 10px;
+        padding: 5px;
+        object-fit: cover;
+        
+        transform: rotate(10deg);
+        transition: transform 0.3s ease-in-out;
+      }
+      
+      .image-style:hover {
+        transform: rotate(20deg) scale(1.1);
+      }
+      .imag-style {
+        width: 200px;
+        height: 200px;
+        border: 2px solid blue;
+        border-radius: 10%;
+        box-shadow: 3px 3px 5px yellow;
+        margin-right: 20px;
+        padding: 5px;
+        object-fit: cover;
+        
+        transform: rotate(10deg);
+        transition: transform 0.3s ease-in-out;
+      }
+      
+      .imag-style:hover {
+        transform: rotate(20deg) scale(1.1);
+      }
+      .img-sty{
+        width:500px;
+        height:300px;
+        border:2px solid blue;
+        border-radius:10%;
+        transform: rotate(0deg);
+        transition: transform 0.3s ease-in-out;
+        object-fit:cover;
+        box-shadow:3px 3px 5px yellow;
+        margin-right:20px;
+        padding:5px;
+      }
+      .img-sty:hover {
+        transform: rotate(0deg) scale(1.1);
+      
+      
+      

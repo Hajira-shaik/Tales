@@ -1,0 +1,56 @@
+
+    
+  
+    @font-face {
+      font-family: "Waltograph";
+      src: url("https://fontsforyou.com/fonts/w/Waltograph.otf");
+  }
+  h1 {
+      font-family: "Waltograph";
+  }
+    
+    
+
+  h2{
+    color:white;
+  } 
+    
+
+ body{
+    background-image:url(bggg.jpeg);
+    background-size:cover;
+ }   
+ 
+  
+  .background img {
+    
+   margin-top:30%;
+   border-radius: 50%;
+    box-shadow:2px 2px 20px white;
+    margin:10%;
+    border:7px solid purple;
+    transition:transform 0.3s ease-in-out;
+  }
+  .background img:hover
+  {
+transform:scale(1.1);
+color:2px blue;
+  }
+  
+.background {
+    border-radius:50%;
+   margin:auto;
+    display:flex;
+    justify-content:space-evenly;
+    color:white;   
+    font-family:lucida;
+   
+}
+
+  
+  
+  
+    
+   
+   
+        
